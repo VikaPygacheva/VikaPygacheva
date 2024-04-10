@@ -15,4 +15,6 @@
 - Bug-Reports
 - Postman Collections
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VikaPygacheva&show_icons=true&theme=radical)
+
 ![Profile_views](https://komarev.com/ghpvc/?username=VikaPygacheva&color=yellow&style=for-the-badge)
